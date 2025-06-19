@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Semiconductor Design Engineer from South Korea.<br/>
   #### :fire: I aim to become a Physical Design Engineer.<br/>
-  #### :mortar_board: B.S. in Electronic Engineering, Kwangwoon University(KWU)
+  #### :mortar_board: B.S. in Electronic Engineering, Kwangwoon University(2025)
   <br/>
   <br/>
   

@@ -17,7 +17,6 @@
   
   ## 🧱 Tech Stack
   ### Language
-
   <!--c-->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <!--c++-->
@@ -29,32 +28,39 @@
   <!--Verilog-->
   <img src="https://img.shields.io/badge/Verilog-E34F26?style=flat-square&logo=&logoColor=white"/>
   <!--System Verilog-->
-  <img src="https://img.shields.io/badge/System Verilog-1572B6?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-1572B6?style=flat-square&logo=&logoColor=white"/>
   <br/>
   
   ### EDA Tools
   <!--Pspice-->
-  <img src="https://img.shields.io/badge/Pspice-000000?style=flat-square&logo=Pspice&logoColor=white"/>
-  <!--Django-->
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-  <!--React-->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white&Color=white"/>
+  <img src="https://img.shields.io/badge/Pspice-E60505?style=flat-square&logo=Pspice&logoColor=white"/>
+  <!--Hspice-->
+  <img src="https://img.shields.io/badge/Hspice-663399?style=flat-square&logo=Hspice&logoColor=white"/>
+  <!--ADS-->
+  <img src="https://img.shields.io/badge/ADS-E53236?style=flat-square&logo=ADS&logoColor=white"/>
+  <!--Custom Compiler-->
+  <img src="https://img.shields.io/badge/CustomCompiler-6C47FF?style=flat-square&logo=&logoColor=white"/>
+  <!--VCS-->
+  <img src="https://img.shields.io/badge/VCS-8669AE?style=flat-square&logo=VCS&logoColor=white"/>
+  <!--Verdi-->
+  <img src="https://img.shields.io/badge/Verdi-4B22F4?style=flat-square&logo=Verdi&logoColor=white"/>
+  <!--Vivado-->
+  <img src="https://img.shields.io/badge/Vivado-79BD42?style=flat-square&logo=Vivado&logoColor=white"/>
   <br/>
   
   ### Tools
-  <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <!--VS code-->
+  <img src="https://img.shields.io/badge/VScode-2F80ED?style=flat-square&logo=VSCode&logoColor=white"/>
+  <!--Git-->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  
   <br/>
   <br/>
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeoongil)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeoongil)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
